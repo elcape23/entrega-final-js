@@ -1,0 +1,1186 @@
+[
+  {
+    "id_jugador": 10,
+    "name": "Meshaal Barsham",
+    "hability": 64,
+    "character": 54,
+    "status": 1, 
+    "id_equipo": 1,
+    "position": "GK",
+    "img_jugador": "./img/jugadores/10.png"
+  },
+  {
+    "id_jugador": 11,
+    "name": "Akram Afif",
+    "hability": 73,
+    "character": 67,
+    "status": 1,
+    "id_equipo": 1,
+    "img_jugador": "./img/jugadores/11.png"
+  },
+  {
+    "id_jugador": 12,
+    "name": "Almoez Ali",
+    "hability": 59,
+    "character": 73,
+    "status": 1,
+    "id_equipo": 1,
+    "img_jugador": "./img/jugadores/12.png"
+  },
+  {
+    "id_jugador": 13,
+    "name": "Hasan Al-Haydos",
+    "hability": 75,
+    "character": 61,
+    "status": 1,
+    "id_equipo": 1,
+    "img_jugador": "./img/jugadores/13.png"
+  },
+  {
+    "id_jugador": 20,
+    "name": "Alexander Dominguez",
+    "hability": 70,
+    "character": 75,
+    "status": 1,
+    "id_equipo": 2,
+    "position": "GK",
+    "img_jugador": "./img/jugadores/20.png"
+  },
+  {
+    "id_jugador": 21,
+    "name": "Fidel Martínez",
+    "hability": 73,
+    "character": 82,
+    "status": 1,
+    "id_equipo": 2,
+    "img_jugador": "./img/jugadores/21.png"
+  },
+  {
+    "id_jugador": 22,
+    "name": "Junior Sornoza",
+    "hability": 68,
+    "character": 73,
+    "status": 1,
+    "id_equipo": 2,
+    "img_jugador": "./img/jugadores/22.png"
+  },
+  {
+    "id_jugador": 23,
+    "name": "Felipe Caicedo",
+    "hability": 75,
+    "character": 73,
+    "status": 1,
+    "id_equipo": 2,
+    "img_jugador": "./img/jugadores/23.png"
+  },
+  {
+    "id_jugador": 30,
+    "name": "Edouard Mendy",
+    "hability": 85,
+    "character": 85,
+    "status": 1.5,
+    "id_equipo": 3,
+    "position": "GK",
+    "img_jugador": "./img/jugadores/30.png"
+  },
+  {
+    "id_jugador": 31,
+    "name": "Sadio Mané",
+    "hability": 86,
+    "character": 75,
+    "status": 2,
+    "id_equipo": 3,
+    "img_jugador": "./img/jugadores/31.png"
+  },
+  {
+    "id_jugador": 32,
+    "name": "Boulaye Dia",
+    "hability": 81,
+    "character": 77,
+    "status": 1,
+    "id_equipo": 3,
+    "img_jugador": "./img/jugadores/32.png"
+  },
+  {
+    "id_jugador": 33,
+    "name": "Habib Diallo",
+    "hability": 79,
+    "character": 80,
+    "status": 1,
+    "id_equipo": 3,
+    "img_jugador": "./img/jugadores/33.png"
+  },
+  {
+    "id_jugador": 40,
+    "name": "Jasper Cillessen",
+    "hability": 79,
+    "character": 80,
+    "status": 1,
+    "id_equipo": 4,
+    "position": "GK",
+    "img_jugador": "./img/jugadores/40.png"
+  },
+  {
+    "id_jugador": 41,
+    "name": "Memphis Depay",
+    "hability": 84,
+    "character": 76,
+    "status": 1.5,
+    "id_equipo": 4,
+    "img_jugador": "./img/jugadores/41.png"
+  },
+  {
+    "id_jugador": 42,
+    "name": "Georginio Wijnaldum",
+    "hability": 75,
+    "character": 74,
+    "status": 1.5,
+    "id_equipo": 4,
+    "img_jugador": "./img/jugadores/42.png"
+  },
+  {
+    "id_jugador": 43,
+    "name": "Donyell Malen",
+    "hability": 79,
+    "character": 74,
+    "status": 1,
+    "id_equipo": 4,
+    "img_jugador": "./img/jugadores/43.png"
+  },
+  {
+    "id_jugador": 50,
+    "name": "Jordan Pickford",
+    "hability": 81,
+    "character": 78,
+    "status": 1,
+    "id_equipo": 5,
+    "position": "GK",
+    "img_jugador": "./img/jugadores/50.png"
+  },
+  {
+    "id_jugador": 51,
+    "name": "Harry Kane",
+    "hability": 94,
+    "character": 92,
+    "status": 3,
+    "id_equipo": 5,
+    "img_jugador": "./img/jugadores/51.png"
+  },
+  {
+    "id_jugador": 52,
+    "name": "Marcus Rashford",
+    "hability": 81,
+    "character": 85,
+    "status": 1.5,
+    "id_equipo": 5,
+    "img_jugador": "./img/jugadores/52.png"
+  },
+  {
+    "id_jugador": 53,
+    "name": "Dominic Calvert-Lewin",
+    "hability": 82,
+    "character": 77,
+    "status": 1,
+    "id_equipo": 5,
+    "img_jugador": "./img/jugadores/53.png"
+  },
+  {
+    "id_jugador": 60,
+    "name": "Amir Abedzadeh",
+    "hability": 72,
+    "character": 73,
+    "status": 1,
+    "id_equipo": 6,
+    "position": "GK",
+    "img_jugador": "./img/jugadores/60.png"
+  },
+  {
+    "id_jugador": 61,
+    "name": "Mehdi Taremi",
+    "hability": 80,
+    "character": 76,
+    "status": 1,
+    "id_equipo": 6,
+    "img_jugador": "./img/jugadores/61.png"
+  },
+  {
+    "id_jugador": 62,
+    "name": "Karim Ansarifard",
+    "hability": 72,
+    "character": 75,
+    "status": 1,
+    "id_equipo": 6,
+    "img_jugador": "./img/jugadores/62.png"
+  },
+  {
+    "id_jugador": 63,
+    "name": "Kaveh Rezaei",
+    "hability": 69,
+    "character": 79,
+    "status": 1,
+    "id_equipo": 6,
+    "img_jugador": "./img/jugadores/63.png"
+  },
+  {
+    "id_jugador": 70,
+    "name": "Zack Steffen",
+    "hability": 79,
+    "character": 73,
+    "status": 1,
+    "id_equipo": 7,
+    "position": "GK",
+    "img_jugador": "./img/jugadores/70.png"
+  },
+  {
+    "id_jugador": 71,
+    "name": "Christian Pulisic",
+    "hability": 74,
+    "character": 61,
+    "status": 1.5,
+    "id_equipo": 7,
+    "img_jugador": "./img/jugadores/71.png"
+  },
+  {
+    "id_jugador": 72,
+    "name": "Timothy Weah",
+    "hability": 72,
+    "character": 60,
+    "status": 1,
+    "id_equipo": 7,
+    "img_jugador": "./img/jugadores/72.png"
+  },
+  {
+    "id_jugador": 73,
+    "name": "Weston McKennie",
+    "hability": 73,
+    "character": 61,
+    "status": 1.5,
+    "id_equipo": 7,
+    "img_jugador": "./img/jugadores/73.png"
+  },
+  {
+    "id_jugador": 80,
+    "name": "Danny Ward",
+    "hability": 74,
+    "character": 73,
+    "status": 1,
+    "id_equipo": 8,
+    "position": "GK",
+    "img_jugador": "./img/jugadores/80.png"
+  },
+  {
+    "id_jugador": 81,
+    "name": "Gareth Bale",
+    "hability": 81,
+    "character": 76,
+    "status": 1.5,
+    "id_equipo": 8,
+    "img_jugador": "./img/jugadores/81.png"
+  },
+  {
+    "id_jugador": 82,
+    "name": "Harry Wilson",
+    "hability": 75,
+    "character": 78,
+    "status": 1,
+    "id_equipo": 8,
+    "img_jugador": "./img/jugadores/82.png"
+  },
+  {
+    "id_jugador": 83,
+    "name": "Aaron Ramsey",
+    "hability": 65,
+    "character": 75,
+    "status": 1.5,
+    "id_equipo": 8,
+    "img_jugador": "./img/jugadores/83.png"
+  },
+  {
+    "id_jugador": 90,
+    "name": "Emiliano Martínez",
+    "hability": 84,
+    "character": 83,
+    "status": 1.5,
+    "id_equipo": 9,
+    "position": "GK",
+    "img_jugador": "./img/jugadores/90.png"
+  },
+  {
+    "id_jugador": 91,
+    "name": "Lionel Messi",
+    "hability": 91,
+    "character": 75,
+    "status": 3,
+    "id_equipo": 9,
+    "img_jugador": "./img/jugadores/91.png"
+  },
+  {
+    "id_jugador": 92,
+    "name": "Paulo Dybala",
+    "hability": 84,
+    "character": 84,
+    "status": 2,
+    "id_equipo": 9,
+    "img_jugador": "./img/jugadores/92.png"
+  },
+  {
+    "id_jugador": 93,
+    "name": "Lautaro Martínez",
+    "hability": 87,
+    "character": 74,
+    "status": 2,
+    "id_equipo": 9,
+    "img_jugador": "./img/jugadores/93.png"
+  },
+  {
+    "id_jugador": 100,
+    "name": "Abdullah Al Maiouf",
+    "hability": 69,
+    "character": 70,
+    "status": 1,
+    "id_equipo": 10,
+    "position": "GK",
+    "img_jugador": "./img/jugadores/100.png"
+  },
+  {
+    "id_jugador": 101,
+    "name": "Salem Al Dawsari",
+    "hability": 71,
+    "character": 65,
+    "status": 1,
+    "id_equipo": 10,
+    "img_jugador": "./img/jugadores/101.png"
+  },
+  {
+    "id_jugador": 102,
+    "name": "Nawaf Al Abid",
+    "hability": 68,
+    "character": 73,
+    "status": 1,
+    "id_equipo": 10,
+    "img_jugador": "./img/jugadores/102.png"
+  },
+  {
+    "id_jugador": 103,
+    "name": "Hassan Al Omari",
+    "hability": 65,
+    "character": 73,
+    "status": 1,
+    "id_equipo": 10,
+    "img_jugador": "./img/jugadores/103.png"
+  },
+  {
+    "id_jugador": 110,
+    "name": "Guillermo Ochoa",
+    "hability": 79,
+    "character": 80,
+    "status": 1,
+    "id_equipo": 11,
+    "position": "GK",
+    "img_jugador": "./img/jugadores/110.png"
+  },
+  {
+    "id_jugador": 111,
+    "name": "Raúl Jiménez",
+    "hability": 81,
+    "character": 92,
+    "status": 1.5,
+    "id_equipo": 11,
+    "img_jugador": "./img/jugadores/111.png"
+  },
+  {
+    "id_jugador": 112,
+    "name": "Hirving Lozano",
+    "hability": 77,
+    "character": 73,
+    "status": 1,
+    "id_equipo": 11,
+    "img_jugador": "./img/jugadores/112.png"
+  },
+  {
+    "id_jugador": 113,
+    "name": "Luis Romo",
+    "hability": 65,
+    "character": 82,
+    "status": 1,
+    "id_equipo": 11,
+    "img_jugador": "./img/jugadores/113.png"
+  },
+  {
+    "id_jugador": 120,
+    "name": "Wojciech Szczęsny",
+    "hability": 85,
+    "character": 86,
+    "status": 1.5,
+    "id_equipo": 12,
+    "position": "GK",
+    "img_jugador": "./img/jugadores/120.png"
+  },
+  {
+    "id_jugador": 121,
+    "name": "Robert Lewandowski",
+    "hability": 95,
+    "character": 90,
+    "status": 3,
+    "id_equipo": 12,
+    "img_jugador": "./img/jugadores/121.png"
+  },
+  {
+    "id_jugador": 122,
+    "name": "Arkadiusz Milik",
+    "hability": 84,
+    "character": 79,
+    "status": 1,
+    "id_equipo": 12,
+    "img_jugador": "./img/jugadores/122.png"
+  },
+  {
+    "id_jugador": 123,
+    "name": "Krzysztof Piątek",
+    "hability": 80,
+    "character": 73,
+    "status": 1,
+    "id_equipo": 12,
+    "img_jugador": "./img/jugadores/123.png"
+  },
+  {
+    "id_jugador": 130,
+    "name": "Hugo Lloris",
+    "hability": 86,
+    "character": 84,
+    "status": 1.5,
+    "id_equipo": 13,
+    "position": "GK",
+    "img_jugador": "./img/jugadores/130.png"
+  },
+  {
+    "id_jugador": 131,
+    "name": "Kylian Mbappé",
+    "hability": 93,
+    "character": 79,
+    "status": 3,
+    "id_equipo": 13,
+    "img_jugador": "./img/jugadores/131.png"
+  },
+  {
+    "id_jugador": 132,
+    "name": "Paul Pogba",
+    "hability": 75,
+    "character": 80,
+    "status": 2,
+    "id_equipo": 13,
+    "img_jugador": "./img/jugadores/132.png"
+  },
+  {
+    "id_jugador": 133,
+    "name": "Antoine Griezmann",
+    "hability": 84,
+    "character": 79,
+    "status": 2,
+    "id_equipo": 13,
+    "img_jugador": "./img/jugadores/133.png"
+  },
+  {
+    "id_jugador": 140,
+    "name": "Mathew Ryan",
+    "hability": 77,
+    "character": 76,
+    "status": 1,
+    "id_equipo": 14,
+    "position": "GK",
+    "img_jugador": "./img/jugadores/140.png"
+  },
+  {
+    "id_jugador": 141,
+    "name": "Jamie Maclaren",
+    "hability": 78,
+    "character": 73,
+    "status": 1,
+    "id_equipo": 14,
+    "img_jugador": "./img/jugadores/141.png"
+  },
+  {
+    "id_jugador": 142,
+    "name": "Martin Boyle",
+    "hability": 71,
+    "character": 72,
+    "status": 1,
+    "id_equipo": 14,
+    "img_jugador": "./img/jugadores/142.png"
+  },
+  {
+    "id_jugador": 143,
+    "name": "Ajdin Hrustić",
+    "hability": 63,
+    "character": 63,
+    "status": 1,
+    "id_equipo": 14,
+    "img_jugador": "./img/jugadores/143.png"
+  },
+  {
+    "id_jugador": 150,
+    "name": "Kasper Schmeichel",
+    "hability": 82,
+    "character": 81,
+    "status": 1,
+    "id_equipo": 15,
+    "position": "GK",
+    "img_jugador": "./img/jugadores/150.png"
+  },
+  {
+    "id_jugador": 151,
+    "name": "Christian Eriksen",
+    "hability": 73,
+    "character": 67,
+    "status": 1.5,
+    "id_equipo": 15,
+    "img_jugador": "./img/jugadores/151.png"
+  },
+  {
+    "id_jugador": 152,
+    "name": "Daniel Wass",
+    "hability": 76,
+    "character": 61,
+    "status": 1,
+    "id_equipo": 15,
+    "img_jugador": "./img/jugadores/152.png"
+  },
+  {
+    "id_jugador": 153,
+    "name": "Kasper Dolberg",
+    "hability": 79,
+    "character": 78,
+    "status": 1,
+    "id_equipo": 15,
+    "img_jugador": "./img/jugadores/153.png"
+  },
+  {
+    "id_jugador": 160,
+    "name": "Aymen Dahmen",
+    "hability": 54,
+    "character": 61,
+    "status": 1,
+    "id_equipo": 16,
+    "position": "GK",
+    "img_jugador": "./img/jugadores/160.png"
+  },
+  {
+    "id_jugador": 161,
+    "name": "Wahbi Khazri",
+    "hability": 78,
+    "character": 83,
+    "status": 1,
+    "id_equipo": 16,
+    "img_jugador": "./img/jugadores/161.png"
+  },
+  {
+    "id_jugador": 162,
+    "name": "Naïm Sliti",
+    "hability": 71,
+    "character": 70,
+    "status": 1,
+    "id_equipo": 16,
+    "img_jugador": "./img/jugadores/162.png"
+  },
+  {
+    "id_jugador": 163,
+    "name": "Yoann Touzghar",
+    "hability": 76,
+    "character": 70,
+    "status": 1,
+    "id_equipo": 16,
+    "img_jugador": "./img/jugadores/163.png"
+  },
+  {
+    "id_jugador": 170,
+    "name": "David De Gea",
+    "hability": 86,
+    "character": 84,
+    "status": 1.5,
+    "id_equipo": 17,
+    "position": "GK",
+    "img_jugador": "./img/jugadores/170.png"
+  },
+  {
+    "id_jugador": 171,
+    "name": "Gerard Moreno",
+    "hability": 89,
+    "character": 85,
+    "status": 1.5,
+    "id_equipo": 17,
+    "img_jugador": "./img/jugadores/171.png"
+  },
+  {
+    "id_jugador": 172,
+    "name": "Sergio Ramos",
+    "hability": 65,
+    "character": 90,
+    "status": 3,
+    "id_equipo": 17,
+    "img_jugador": "./img/jugadores/172.png"
+  },
+  {
+    "id_jugador": 173,
+    "name": "Mikel Oyarzabal",
+    "hability": 84,
+    "character": 84,
+    "status": 1.5,
+    "id_equipo": 17,
+    "img_jugador": "./img/jugadores/173.png"
+  },
+  {
+    "id_jugador": 180,
+    "name": "Keylor Navas",
+    "hability": 87,
+    "character": 87,
+    "status": 1.5,
+    "id_equipo": 18,
+    "position": "GK",
+    "img_jugador": "./img/jugadores/180.png"
+  },
+  {
+    "id_jugador": 181,
+    "name": "Joel Campbel",
+    "hability": 74,
+    "character": 70,
+    "status": 1,
+    "id_equipo": 18,
+    "img_jugador": "./img/jugadores/181.png"
+  },
+  {
+    "id_jugador": 182,
+    "name": "Marcos Ureña",
+    "hability": 60,
+    "character": 68,
+    "status": 1,
+    "id_equipo": 18,
+    "img_jugador": "./img/jugadores/182.png"
+  },
+  {
+    "id_jugador": 183,
+    "name": "Manfred Ugalde",
+    "hability": 69,
+    "character": 63,
+    "status": 1,
+    "id_equipo": 18,
+    "img_jugador": "./img/jugadores/183.png"
+  },
+  {
+    "id_jugador": 190,
+    "name": "Manuel Neuer",
+    "hability": 88,
+    "character": 89,
+    "status": 1.5,
+    "id_equipo": 19,
+    "position": "GK",
+    "img_jugador": "./img/jugadores/190.png"
+  },
+  {
+    "id_jugador": 191,
+    "name": "Thomas Müller",
+    "hability": 88,
+    "character": 70,
+    "status": 2,
+    "id_equipo": 19,
+    "img_jugador": "./img/jugadores/191.png"
+  },
+  {
+    "id_jugador": 192,
+    "name": "İlkay Gündoğan",
+    "hability": 81,
+    "character": 80,
+    "status": 2,
+    "id_equipo": 19,
+    "img_jugador": "./img/jugadores/192.png"
+  },
+  {
+    "id_jugador": 193,
+    "name": "Timo Werner",
+    "hability": 81,
+    "character": 78,
+    "status": 1.5,
+    "id_equipo": 19,
+    "img_jugador": "./img/jugadores/193.png"
+  },
+  {
+    "id_jugador": 200,
+    "name": "Yohei Takaoka",
+    "hability": 72,
+    "character": 69,
+    "status": 1,
+    "id_equipo": 20,
+    "position": "GK",
+    "img_jugador": "./img/jugadores/200.png"
+  },
+  {
+    "id_jugador": 201,
+    "name": "Daichi Kamada",
+    "hability": 69,
+    "character": 71,
+    "status": 1,
+    "id_equipo": 20,
+    "img_jugador": "./img/jugadores/201.png"
+  },
+  {
+    "id_jugador": 202,
+    "name": "Takumi Minamino",
+    "hability": 77,
+    "character": 72,
+    "status": 1,
+    "id_equipo": 20,
+    "img_jugador": "./img/jugadores/202.png"
+  },
+  {
+    "id_jugador": 203,
+    "name": "Kyogo Furuhashi",
+    "hability": 76,
+    "character": 70,
+    "status": 1,
+    "id_equipo": 20,
+    "img_jugador": "./img/jugadores/203.png"
+  },
+  {
+    "id_jugador": 210,
+    "name": "Thibaut Courtois",
+    "hability": 87,
+    "character": 86,
+    "status": 1.5,
+    "id_equipo": 21,
+    "position": "GK",
+    "img_jugador": "./img/jugadores/210.png"
+  },
+  {
+    "id_jugador": 211,
+    "name": "Kevin De Bruyne",
+    "hability": 83,
+    "character": 83,
+    "status": 3,
+    "id_equipo": 21,
+    "img_jugador": "./img/jugadores/211.png"
+  },
+  {
+    "id_jugador": 212,
+    "name": "Romelu Lukaku",
+    "hability": 89,
+    "character": 88,
+    "status": 2,
+    "id_equipo": 21,
+    "img_jugador": "./img/jugadores/212.png"
+  },
+  {
+    "id_jugador": 213,
+    "name": "Eden Hazard",
+    "hability": 78,
+    "character": 87,
+    "status": 1.5,
+    "id_equipo": 21,
+    "img_jugador": "./img/jugadores/213.png"
+  },
+  {
+    "id_jugador": 220,
+    "name": "Milan Borjan",
+    "hability": 77,
+    "character": 74,
+    "status": 1,
+    "id_equipo": 22,
+    "position": "GK",
+    "img_jugador": "./img/jugadores/220.png"
+  },
+  {
+    "id_jugador": 221,
+    "name": "Jonathan David",
+    "hability": 82,
+    "character": 75,
+    "status": 1.5,
+    "id_equipo": 22,
+    "img_jugador": "./img/jugadores/221.png"
+  },
+  {
+    "id_jugador": 222,
+    "name": "Junior Hoilett",
+    "hability": 67,
+    "character": 65,
+    "status": 1,
+    "id_equipo": 22,
+    "img_jugador": "./img/jugadores/222.png"
+  },
+  {
+    "id_jugador": 223,
+    "name": "Alphonso Davies",
+    "hability": 64,
+    "character": 60,
+    "status": 2,
+    "id_equipo": 22,
+    "img_jugador": "./img/jugadores/223.png"
+  },
+  {
+    "id_jugador": 230,
+    "name": "Yassine Bounou",
+    "hability": 82,
+    "character": 81,
+    "status": 1,
+    "id_equipo": 23,
+    "position": "GK",
+    "img_jugador": "./img/jugadores/230.png"
+  },
+  {
+    "id_jugador": 231,
+    "name": "Youssef En-Nesyri",
+    "hability": 89,
+    "character": 70,
+    "status": 1,
+    "id_equipo": 23,
+    "img_jugador": "./img/jugadores/231.png"
+  },
+  {
+    "id_jugador": 232,
+    "name": "Hakim Ziyech",
+    "hability": 73,
+    "character": 67,
+    "status": 1.5,
+    "id_equipo": 23,
+    "img_jugador": "./img/jugadores/232.png"
+  },
+  {
+    "id_jugador": 233,
+    "name": "Achraf Hakimi",
+    "hability": 75,
+    "character": 60,
+    "status": 2,
+    "id_equipo": 23,
+    "img_jugador": "./img/jugadores/233.png"
+  },
+  {
+    "id_jugador": 240,
+    "name": "Dominik Livaković",
+    "hability": 80,
+    "character": 77,
+    "status": 1,
+    "id_equipo": 24,
+    "position": "GK",
+    "img_jugador": "./img/jugadores/240.png"
+  },
+  {
+    "id_jugador": 241,
+    "name": "Luka Modrić",
+    "hability": 72,
+    "character": 82,
+    "status": 3,
+    "id_equipo": 24,
+    "img_jugador": "./img/jugadores/241.png"
+  },
+  {
+    "id_jugador": 242,
+    "name": "Andrej Kramarić",
+    "hability": 84,
+    "character": 91,
+    "status": 1,
+    "id_equipo": 24,
+    "img_jugador": "./img/jugadores/242.png"
+  },
+  {
+    "id_jugador": 243,
+    "name": "Ivan Rakitić",
+    "hability": 77,
+    "character": 82,
+    "status": 2,
+    "id_equipo": 24,
+    "img_jugador": "./img/jugadores/243.png"
+  },
+  {
+    "id_jugador": 250,
+    "name": "Alisson Becker",
+    "hability": 87,
+    "character": 90,
+    "status": 1.5,
+    "id_equipo": 25,
+    "position": "GK",
+    "img_jugador": "./img/jugadores/250.png"
+  },
+  {
+    "id_jugador": 251,
+    "name": "Neymar Jr.",
+    "hability": 83,
+    "character": 91,
+    "status": 3,
+    "id_equipo": 25,
+    "img_jugador": "./img/jugadores/251.png"
+  },
+  {
+    "id_jugador": 252,
+    "name": "Fabinho",
+    "hability": 63,
+    "character": 90,
+    "status": 1.5,
+    "id_equipo": 25,
+    "img_jugador": "./img/jugadores/252.png"
+  },
+  {
+    "id_jugador": 253,
+    "name": "Gabriel Jesus",
+    "hability": 83,
+    "character": 75,
+    "status": 2,
+    "id_equipo": 25,
+    "img_jugador": "./img/jugadores/253.png"
+  },
+  {
+    "id_jugador": 260,
+    "name": "Marko Dmitrović",
+    "hability": 79,
+    "character": 80,
+    "status": 1,
+    "id_equipo": 26,
+    "position": "GK",
+    "img_jugador": "./img/jugadores/260.png"
+  },
+  {
+    "id_jugador": 261,
+    "name": "Dušan Tadić",
+    "hability": 83,
+    "character": 84,
+    "status": 1.5,
+    "id_equipo": 26,
+    "img_jugador": "./img/jugadores/261.png"
+  },
+  {
+    "id_jugador": 262,
+    "name": "Dušan Vlahović",
+    "hability": 88,
+    "character": 73,
+    "status": 1.5,
+    "id_equipo": 26,
+    "img_jugador": "./img/jugadores/262.png"
+  },
+  {
+    "id_jugador": 263,
+    "name": "Aleksandar Mitrović",
+    "hability": 81,
+    "character": 74,
+    "status": 1,
+    "id_equipo": 26,
+    "img_jugador": "./img/jugadores/263.png"
+  },
+  {
+    "id_jugador": 270,
+    "name": "Yann Sommer",
+    "hability": 82,
+    "character": 86,
+    "status": 1,
+    "id_equipo": 27,
+    "position": "GK",
+    "img_jugador": "./img/jugadores/270.png"
+  },
+  {
+    "id_jugador": 271,
+    "name": "Fabian Schär",
+    "hability": 60,
+    "character": 75,
+    "status": 1,
+    "id_equipo": 27,
+    "img_jugador": "./img/jugadores/271.png"
+  },
+  {
+    "id_jugador": 272,
+    "name": "Breel-Donald Embolo",
+    "hability": 72,
+    "character": 66,
+    "status": 1,
+    "id_equipo": 27,
+    "img_jugador": "./img/jugadores/272.png"
+  },
+  {
+    "id_jugador": 273,
+    "name": "Michael Frey",
+    "hability": 79,
+    "character": 72,
+    "status": 1,
+    "id_equipo": 27,
+    "img_jugador": "./img/jugadores/273.png"
+  },
+  {
+    "id_jugador": 280,
+    "name": "André Onana",
+    "hability": 81,
+    "character": 81,
+    "status": 1,
+    "id_equipo": 28,
+    "position": "GK",
+    "img_jugador": "./img/jugadores/280.png"
+  },
+  {
+    "id_jugador": 281,
+    "name": "Toko Ekambi",
+    "hability": 79,
+    "character": 74,
+    "status": 1,
+    "id_equipo": 28,
+    "img_jugador": "./img/jugadores/281.png"
+  },
+  {
+    "id_jugador": 282,
+    "name": "Vincent Aboubakar",
+    "hability": 76,
+    "character": 74,
+    "status": 1,
+    "id_equipo": 28,
+    "img_jugador": "./img/jugadores/282.png"
+  },
+  {
+    "id_jugador": 283,
+    "name": "Maxim Choupo-Moting",
+    "hability": 74,
+    "character": 68,
+    "status": 1,
+    "id_equipo": 28,
+    "img_jugador": "./img/jugadores/283.png"
+  },
+  {
+    "id_jugador": 290,
+    "name": "Rui Patrício",
+    "hability": 82,
+    "character": 80,
+    "status": 1,
+    "id_equipo": 29,
+    "position": "GK",
+    "img_jugador": "./img/jugadores/290.png"
+  },
+  {
+    "id_jugador": 291,
+    "name": "Cristiano Ronaldo",
+    "hability": 94,
+    "character": 90,
+    "status": 3,
+    "id_equipo": 29,
+    "img_jugador": "./img/jugadores/291.png"
+  },
+  {
+    "id_jugador": 292,
+    "name": "Bruno Fernandes",
+    "hability": 83,
+    "character": 90,
+    "status": 2,
+    "id_equipo": 29,
+    "img_jugador": "./img/jugadores/292.png"
+  },
+  {
+    "id_jugador": 293,
+    "name": "André Silva",
+    "hability": 85,
+    "character": 84,
+    "status": 1.5,
+    "id_equipo": 29,
+    "img_jugador": "./img/jugadores/293.png"
+  },
+  {
+    "id_jugador": 300,
+    "name": "Richard Ofori",
+    "hability": 73,
+    "character": 75,
+    "status": 1,
+    "id_equipo": 30,
+    "position": "GK",
+    "img_jugador": "./img/jugadores/300.png"
+  },
+  {
+    "id_jugador": 301,
+    "name": "Thomas Partey",
+    "hability": 66,
+    "character": 49,
+    "status": 1.5,
+    "id_equipo": 30,
+    "img_jugador": "./img/jugadores/301.png"
+  },
+  {
+    "id_jugador": 302,
+    "name": "Emmanuel Boateng",
+    "hability": 77,
+    "character": 64,
+    "status": 1,
+    "id_equipo": 30,
+    "img_jugador": "./img/jugadores/302.png"
+  },
+  {
+    "id_jugador": 303,
+    "name": "Jordan Ayew",
+    "hability": 71,
+    "character": 74,
+    "status": 1,
+    "id_equipo": 30,
+    "img_jugador": "./img/jugadores/303.png"
+  },
+  {
+    "id_jugador": 310,
+    "name": "Fernando Muslera",
+    "hability": 79,
+    "character": 82,
+    "status": 1,
+    "id_equipo": 31,
+    "position": "GK",
+    "img_jugador": "./img/jugadores/310.png"
+  },
+  {
+    "id_jugador": 311,
+    "name": "Luis Suárez",
+    "hability": 90,
+    "character": 83,
+    "status": 2,
+    "id_equipo": 31,
+    "img_jugador": "./img/jugadores/311.png"
+  },
+  {
+    "id_jugador": 312,
+    "name": "Edinson Cavani",
+    "hability": 85,
+    "character": 84,
+    "status": 2,
+    "id_equipo": 31,
+    "img_jugador": "./img/jugadores/312.png"
+  },
+  {
+    "id_jugador": 313,
+    "name": "Darwin Núñez",
+    "hability": 82,
+    "character": 76,
+    "status": 1.5,
+    "id_equipo": 31,
+    "img_jugador": "./img/jugadores/313.png"
+  },
+  {
+    "id_jugador": 320,
+    "name": "Jo Hyeon Woo",
+    "hability": 75,
+    "character": 71,
+    "status": 1,
+    "id_equipo": 32,
+    "position": "GK",
+    "img_jugador": "./img/jugadores/320.png"
+  },
+  {
+    "id_jugador": 321,
+    "name": "Heung Min Son",
+    "hability": 89,
+    "character": 73,
+    "status": 2,
+    "id_equipo": 32,
+    "img_jugador": "./img/jugadores/321.png"
+  },
+  {
+    "id_jugador": 322,
+    "name": "Hwang Hee Chan",
+    "hability": 77,
+    "character": 72,
+    "status": 1,
+    "id_equipo": 32,
+    "img_jugador": "./img/jugadores/322.png"
+  },
+  {
+    "id_jugador": 323,
+    "name": "Ki Sung Yueng",
+    "hability": 60,
+    "character": 74,
+    "status": 1,
+    "id_equipo": 32,
+    "img_jugador": "./img/jugadores/323.png"
+  }
+]

@@ -1,0 +1,787 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.preloader {
+  background: url(../img/background-image.png);
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  width: 100%;
+  z-index: 100;
+  animation-name: preloader;
+  animation-duration: 1s;
+}
+
+@keyframes preloader {
+  0% {
+    background-color: #671129;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+.preloader img {
+  position: absolute;
+  margin-top: 20vh;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+  height: 35%;
+  animation-name: imagen-preloader;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes imagen-preloader {
+  0% {
+    transform: scaleX(1);
+  }
+
+  50% {
+    transform: scaleX(0);
+    transform: rotateY(-180deg);
+  }
+
+  100% {
+    transform: scaleX(1);
+  }
+}
+
+.contenedor {
+  background: url(../img/background-image1.png);
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  width: 100%;
+  animation-name: contenedor;
+  animation-duration: 1s;
+}
+
+@keyframes contenedor {
+  0% {
+    background-color: #671129;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+@font-face {
+  font-family: Qatar2022;
+  src: url(../font/Qatar2022Arabic-Bold.ttf);
+}
+
+.grupos {
+  height: 100vh;
+  display: grid;
+  grid-template-areas:
+    ". grupoA grupoB grupoC grupoD ."
+    ". equipo1 equipo5 equipo9 equipo13 ."
+    ". equipo2 equipo6 equipo10 equipo14 ."
+    ". equipo3 equipo7 equipo11 equipo15 ."
+    ". equipo4 equipo8 equipo12 equipo16 ."
+    ". grupoE grupoF grupoG grupoH ."
+    ". equipo17 equipo21 equipo25 equipo29 ."
+    ". equipo18 equipo22 equipo26 equipo30 ."
+    ". equipo19 equipo23 equipo27 equipo31 ."
+    ". equipo20 equipo24 equipo28 equipo32 .";
+  grid-template-rows: 30% 5% 5% 5% 5% 10% 5% 5% 5% 5%;
+  grid-template-columns: 20% 15% 15% 15% 15% 20%;
+  align-self: center;
+}
+
+.escudo {
+  height: 80%;
+  border: solid transparent;
+  border-radius: 50px;
+  align-self: center;
+  transition: all 300ms ease-in-out;
+}
+
+.escudo:hover {
+  transform: scale(1.1);
+  cursor: pointer;
+}
+
+div > h2 {
+  font-family: Qatar2022;
+  align-self: end;
+  color: white;
+}
+
+div > h3 {
+  font-family: Qatar2022;
+  font-size: 20px;
+  align-self: center;
+  background-color: white;
+  color: #671129;
+  border: solid transparent;
+  border-radius: 50px;
+  padding-left: 10px;
+  width: 75%;
+  transition: all 300ms ease-in-out;
+}
+
+div > h3:hover {
+  transform: scale(1.03);
+  cursor: pointer;
+  background-color: #51b498;
+  color: white;
+}
+
+.texto-eleccion {
+  position: absolute;
+  font-family: Qatar2022;
+  background-color: white;
+  color: #671129;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 30px;
+  margin-top: 15vh;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+  text-align: center;
+  width: 300px;
+}
+
+.id1 {
+  grid-area: equipo1;
+  display: flex;
+}
+
+.id2 {
+  grid-area: equipo2;
+  display: flex;
+}
+
+.id3 {
+  grid-area: equipo3;
+  display: flex;
+}
+
+.id4 {
+  grid-area: equipo4;
+  display: flex;
+}
+
+.id5 {
+  grid-area: equipo5;
+  display: flex;
+}
+
+.id6 {
+  grid-area: equipo6;
+  display: flex;
+}
+
+.id7 {
+  grid-area: equipo7;
+  display: flex;
+}
+
+.id8 {
+  grid-area: equipo8;
+  display: flex;
+}
+
+.id9 {
+  grid-area: equipo9;
+  display: flex;
+}
+
+.id10 {
+  grid-area: equipo10;
+  display: flex;
+}
+
+.id11 {
+  grid-area: equipo11;
+  display: flex;
+}
+
+.id12 {
+  grid-area: equipo12;
+  display: flex;
+}
+
+.id13 {
+  grid-area: equipo13;
+  display: flex;
+}
+
+.id14 {
+  grid-area: equipo14;
+  display: flex;
+}
+
+.id15 {
+  grid-area: equipo15;
+  display: flex;
+}
+
+.id16 {
+  grid-area: equipo16;
+  display: flex;
+}
+
+.id17 {
+  grid-area: equipo17;
+  display: flex;
+}
+
+.id18 {
+  grid-area: equipo18;
+  display: flex;
+}
+
+.id19 {
+  grid-area: equipo19;
+  display: flex;
+}
+
+.id20 {
+  grid-area: equipo20;
+  display: flex;
+}
+
+.id21 {
+  grid-area: equipo21;
+  display: flex;
+}
+
+.id22 {
+  grid-area: equipo22;
+  display: flex;
+}
+
+.id23 {
+  grid-area: equipo23;
+  display: flex;
+}
+
+.id24 {
+  grid-area: equipo24;
+  display: flex;
+}
+
+.id25 {
+  grid-area: equipo25;
+  display: flex;
+}
+
+.id26 {
+  grid-area: equipo26;
+  display: flex;
+}
+
+.id27 {
+  grid-area: equipo27;
+  display: flex;
+}
+
+.id28 {
+  grid-area: equipo28;
+  display: flex;
+}
+
+.id29 {
+  grid-area: equipo29;
+  display: flex;
+}
+
+.id30 {
+  grid-area: equipo30;
+  display: flex;
+}
+
+.id31 {
+  grid-area: equipo31;
+  display: flex;
+}
+
+.id32 {
+  grid-area: equipo32;
+  display: flex;
+}
+
+.grupoA {
+  grid-area: grupoA;
+}
+
+.grupoB {
+  grid-area: grupoB;
+}
+
+.grupoC {
+  grid-area: grupoC;
+}
+
+.grupoD {
+  grid-area: grupoD;
+}
+
+.grupoE {
+  grid-area: grupoE;
+}
+
+.grupoF {
+  grid-area: grupoF;
+}
+
+.grupoG {
+  grid-area: grupoG;
+}
+
+.grupoH {
+  grid-area: grupoH;
+}
+
+/* EQUIPO ELEGIDO */
+.equipo-escudo-nombre {
+  display: flex;
+  justify-content: center;
+}
+
+.elegi-jugador {
+  font-size: 30px;
+  margin-top: 2vh;
+  margin-bottom: 2vh;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+  color: #671129;
+  text-align: center;
+  border-radius: 20px;
+  width: 15%;
+}
+
+.nombre-equipo-elegido {
+  font-family: Qatar2022;
+  font-size: 40px;
+  background-color: white;
+  color: #671129;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 30px;
+  justify-self: center;
+  margin-top: 20vh;
+  z-index: 100;
+}
+
+.escudo-equipo-elegido {
+  border-radius: 50%;
+  height: 60px;
+  width: 60px;
+  margin-top: 20vh;
+  z-index: 100;
+}
+
+.jugadores-elegidos {
+  display: flex;
+  align-items: center;
+  /* height: 50vh; */
+  width: 80%;
+  /* margin-top: 5vh; */
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.jugador {
+  width: 80%;
+  display: grid;
+  grid-template-areas:
+    "img img"
+    "nombre nombre"
+    "habilidad habilidad"
+    "penales penales";
+  animation-name: jugador;
+  animation-duration: 3s;
+}
+
+@keyframes jugador {
+  0% {
+    opacity: 0.1;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.imagen-jugador {
+  grid-area: img;
+  border: solid white 3px;
+  border-radius: 50%;
+  justify-self: center;
+  transition: all 300ms ease-in-out;
+}
+
+.imagen-jugador:hover {
+  transform: scale(1.05);
+  cursor: pointer;
+}
+
+.nombre-jugador {
+  grid-area: nombre;
+  font-family: Qatar2022;
+  color: #671129;
+  background-color: white;
+  border-radius: 20px;
+  font-size: 25px;
+  text-align: center;
+  justify-self: center;
+  width: 90%;
+  height: 5vh;
+  margin-top: 1vh;
+  transition: all 300ms ease-in-out;
+}
+
+.nombre-jugador:hover {
+  transform: scale(1.05);
+  cursor: pointer;
+  background-color: #51b498;
+  color: white;
+}
+
+.hability {
+  grid-area: habilidad;
+  height: 15vh;
+  width: 60%;
+  justify-self: center;
+  justify-content: center;
+  margin-top: 1vh;
+}
+
+.hability h6 {
+  grid-area: habilidadNumero;
+  font-family: Qatar2022;
+  background-image: url(../img/fondo-numero.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  color: white;
+  border-radius: 50%;
+  font-size: 35px;
+  text-align: center;
+  width: 100%;
+  align-self: center;
+}
+
+.hability h5 {
+  grid-area: habilidadTexto;
+  font-family: Qatar2022;
+  font-size: 25px;
+  color: white;
+  border-radius: 30px;
+  margin-top: 10px;
+  text-align: center;
+  width: 100%;
+}
+
+.character {
+  grid-area: penales;
+  height: 15vh;
+  width: 60%;
+  justify-self: center;
+  justify-content: center;
+}
+
+.character h6 {
+  grid-area: penalesNumero;
+  font-family: Qatar2022;
+  background-image: url(../img/fondo-numero.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  color: white;
+  border-radius: 50%;
+  font-size: 35px;
+  text-align: center;
+  width: 100%;
+}
+
+.character h5 {
+  grid-area: penalesTexto;
+  font-family: Qatar2022;
+  font-size: 25px;
+  color: white;
+  border-radius: 30px;
+  margin-top: 10px;
+  text-align: center;
+  width: 100%;
+}
+
+.partidos {
+  animation-duration: 3s;
+  animation-name: opacidad;
+}
+
+.partidosTexto {
+  width: 20%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.partidosTexto > h2 {
+  font-family: Qatar2022;
+  font-size: 30px;
+  margin-top: 15vh;
+  color: #671129;
+  background-color: white;
+  border-radius: 20px;
+  text-align: center;
+  justify-self: center;
+  align-self: center;
+  width: 100%;
+}
+
+.partidos > h1 {
+  font-family: Qatar2022;
+  font-size: 32px;
+  margin-top: 15vh;
+  margin-left: auto;
+  margin-right: auto;
+  color: #671129;
+  background-color: white;
+  border-radius: 20px;
+  text-align: center;
+  align-self: center;
+  width: 15%;
+  animation-duration: 3s;
+  animation-name: opacidad;
+}
+
+.rivales {
+  margin-top: 15vh;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@keyframes opacidad {
+  from {
+    opacity: 0%;
+  }
+  to {
+    opacity: 100%;
+  }
+}
+
+.enfrentamiento {
+  display: flex;
+  transition: all 300ms ease-in-out;
+  margin-bottom: 2vh;
+  animation-duration: 3s;
+  animation-name: opacidad;
+}
+
+.enfrentamiento:hover {
+  transform: scale(1.05);
+  cursor: pointer;
+}
+
+.enfrentamiento img {
+  border-radius: 50%;
+  height: 40px;
+  width: auto;
+  align-self: center;
+}
+
+.enfrentamiento h5 {
+  font-family: Qatar2022;
+  color: #671129;
+  background-color: white;
+  border-radius: 20px;
+  font-size: 30px;
+  text-align: center;
+  justify-self: center;
+  align-self: center;
+  width: 90%;
+  height: 5vh;
+  transition: all 300ms ease-in-out;
+}
+
+.enfrentamiento h6 {
+  font-family: Qatar2022;
+  background-image: url(../img/fondo-numero.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  align-self: center;
+  color: white;
+  border-radius: 50%;
+  font-size: 30px;
+  text-align: center;
+  width: 25%;
+}
+
+.pagePenales {
+  margin-top: 15vh;
+  animation-duration: 3s;
+  animation-name: opacidad;
+}
+
+.penales {
+  display: grid;
+  grid-template-areas:
+    ". simular ."
+    "pateador vs arquero"
+    ". boton ."
+    "resultado resultado resultado";
+  justify-content: center;
+}
+
+.textoSimular {
+  width: 20%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 15vh;
+}
+
+.textoSimular > h2 {
+  grid-area: simular;
+  font-family: Qatar2022;
+  font-size: 30px;
+  color: #671129;
+  background-color: white;
+  border-radius: 20px;
+  text-align: center;
+  justify-self: center;
+  align-self: center;
+  width: 100%;
+}
+
+.penales > h2 {
+  grid-area: vs;
+  font-family: Qatar2022;
+  background-image: url(../img/fondo-numero.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  font-size: 40px;
+  align-self: center;
+  color: white;
+  border-radius: 50%;
+  text-align: center;
+}
+
+.pateador {
+  grid-area: pateador;
+  display: grid;
+  grid-template-areas:
+    "img img "
+    "texto texto";
+  width: 20vw;
+}
+
+.pateador > img {
+  grid-area: img;
+  border: solid white 3px;
+  border-radius: 50%;
+  justify-self: center;
+  margin-bottom: 2vh;
+  transition: all 300ms ease-in-out;
+}
+
+.pateador > h4 {
+  grid-area: texto;
+  font-family: Qatar2022;
+  color: #671129;
+  background-color: white;
+  border-radius: 20px;
+  font-size: 25px;
+  text-align: center;
+  align-self: center;
+  height: 5vh;
+  transition: all 300ms ease-in-out;
+}
+
+.arquero {
+  grid-area: arquero;
+  display: grid;
+  grid-template-areas:
+    "img img "
+    "texto texto";
+  width: 20vw;
+}
+
+.arquero > img {
+  grid-area: img;
+  border: solid white 3px;
+  border-radius: 50%;
+  justify-self: center;
+  margin-bottom: 2vh;
+  transition: all 300ms ease-in-out;
+}
+
+.arquero > h4 {
+  grid-area: texto;
+  font-family: Qatar2022;
+  color: #671129;
+  background-color: white;
+  border-radius: 20px;
+  font-size: 25px;
+  text-align: center;
+  align-self: center;
+  height: 5vh;
+  transition: all 300ms ease-in-out;
+}
+
+.botonSimular {
+  grid-area: boton;
+  font-family: Qatar2022;
+  color: white;
+  background-color: #51b498;
+  font-size: 30px;
+  margin-top: 5vh;
+  border: transparent;
+  border-radius: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  transition: all 300ms ease-in-out;
+  margin-bottom: 5vh;
+}
+
+.botonSimular:hover {
+  background-color: white;
+  color: #671129;
+  transform: scale(1.05);
+  cursor: pointer;
+}
+
+.resultado h1 {
+  grid-area: resultado;
+  font-family: Qatar2022;
+  color: white;
+  text-align: center;
+  overflow: hidden;
+  white-space: nowrap;
+  margin: auto;
+  animation: typing 8s steps(37, end), blink-caret 1s infinite;
+}
+
+.textoGol {
+  background-color: #51b498;
+  border-radius: 20px;
+  font-size: 40px;
+  padding-left: 10px;
+  padding-right: 10px;
+  animation-duration: 10s;
+  animation: typing 20s steps(37, end);
+}
+
+@keyframes typing {
+  from {
+    width: 0;
+  }
+  to {
+    width: 85%;
+  }
+}
